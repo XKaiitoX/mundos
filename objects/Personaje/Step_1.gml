@@ -1,4 +1,4 @@
-if keyboard_check(ord("D"))
+ if keyboard_check(ord("D"))
 {
 x = x+spd;
 sprite_index = caminar_lado2;

@@ -20,7 +20,7 @@
   "physicsGroup": 1,
   "physicsKinematic": false,
   "physicsLinearDamping": 0.1,
-  "physicsObject": false,
+  "physicsObject": true,
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -37,6 +37,9 @@
     "name": "normal",
     "path": "sprites/normal/normal.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "pisos18",
+    "path": "sprites/pisos18/pisos18.yy",
+  },
   "visible": true,
 }

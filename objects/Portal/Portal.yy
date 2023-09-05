@@ -2,9 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Portal",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Personaje","path":"objects/Personaje/Personaje.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -19,7 +17,7 @@
   "physicsGroup": 1,
   "physicsKinematic": false,
   "physicsLinearDamping": 0.1,
-  "physicsObject": true,
+  "physicsObject": false,
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,10 +29,10 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "portalinicial",
-    "path": "sprites/portalinicial/portalinicial.yy",
+    "name": "_0b33e596_ff97_41f3_a9ce_a2be8178bdbc_scaled",
+    "path": "sprites/_0b33e596_ff97_41f3_a9ce_a2be8178bdbc_scaled/_0b33e596_ff97_41f3_a9ce_a2be8178bdbc_scaled.yy",
   },
   "spriteMaskId": null,
   "visible": true,
