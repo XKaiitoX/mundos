@@ -2,14 +2,12 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "COFRE",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Personaje","path":"objects/Personaje/Personaje.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "elementos",
-    "path": "folders/Objetos/elementos.yy",
+    "name": "enemigos",
+    "path": "folders/Objetos/enemigos.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,7 +24,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "treasure_chest_in_pixel_art_style_vector",
     "path": "sprites/treasure_chest_in_pixel_art_style_vector/treasure_chest_in_pixel_art_style_vector.yy",

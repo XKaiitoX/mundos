@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "Object24",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Personaje","path":"objects/Personaje/Personaje.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_prota","path":"objects/obj_prota/obj_prota.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -26,7 +26,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "e20c9238a6c732acd85d1c77dfb744b4",
     "path": "sprites/e20c9238a6c732acd85d1c77dfb744b4/e20c9238a6c732acd85d1c77dfb744b4.yy",

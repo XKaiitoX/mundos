@@ -3,13 +3,13 @@
   "resourceVersion": "1.0",
   "name": "Object25",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Personaje","path":"objects/Personaje/Personaje.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_prota","path":"objects/obj_prota/obj_prota.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "elementos",
-    "path": "folders/Objetos/elementos.yy",
+    "name": "enemigos",
+    "path": "folders/Objetos/enemigos.yy",
   },
   "parentObjectId": null,
   "persistent": false,
